@@ -1,6 +1,6 @@
 Please help us process issues more efficiently by filing an
 issue using one of the following templates:
 
-https://github.com/potter-sun/issues/new/choose
+https://github.com/potter-sun/demo/issues/new/choose
 
 Thank you!
